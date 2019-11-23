@@ -6,7 +6,7 @@ import imgCheeseburger from '../Img/burger.png';
 import imgFree from '../Img/fried-potatoes.png';
 import imgCoffee from '../Img/coffee-cup.png';
 import imgTea from '../Img/cup.png';
-import imgCola from '../Img/drink.png'
+import imgCola from '../Img/drink.png';
 
 export const menu = [
     {name: 'Hamburger', price: 80, image: imgHamburger},

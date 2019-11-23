@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import './App.css'
-import Menu, {menu} from './Components/Menu/Menu'
+import './App.css';
+import Menu, {menu} from './Components/Menu/Menu';
 import Order from "./Components/Order/Order";
 
 

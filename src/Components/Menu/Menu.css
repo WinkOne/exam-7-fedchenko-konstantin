@@ -1,0 +1,30 @@
+.boxFoot{
+    height: 100%;
+    border: 2px solid black;
+    width: 39.5%;
+    margin: 1.8%;
+    border-radius: 24%;
+    padding: 24px;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 10px 10px 17px -5px rgba(0,0,0,0.75);
+}
+.boxFoot:hover{
+    background: #DDDDDD;
+}
+.boxFoot:active{
+    transform: scale(1.05);
+
+}
+.nameFoot{
+    margin: 0;
+    text-shadow: 0 -9px 20px #CE5937;
+}
+.nameAndPriceFoot{
+    display: flex;
+    flex-direction: column;
+    text-shadow: 0 -9px 20px #CE5937;
+}
+.item{
+    margin: 3%;
+}
